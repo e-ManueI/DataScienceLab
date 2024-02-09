@@ -1,14 +1,4 @@
-# WorldQuant Applied Data Science Lab
-Here you can find all the 8 projects of WorldQuant's Data Science Program along with my certification. 
-
-I'm exhilarated to share that I have successfully completed WorldQuant's Data Science Program, a transformative journey that has broadened my skills and knowledge in the field of data science! 🎓 ✨ 
-
-Check my badge: https://www.credly.com/badges/4480df1c-d561-4ef8-9852-79b5748e0c73/public_url
-
-
-Throughout the program, I had the opportunity to work on eight fascinating projects, each designed to enhance my understanding and practical application of key data science concepts. Let me provide a brief explanation of each project:
-
-
+# Applied Data Science Lab
 1- 𝗛𝗢𝗨𝗦𝗜𝗡𝗚 𝗜𝗡 𝗠𝗘𝗫𝗜𝗖𝗢: Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
 
 
@@ -31,9 +21,3 @@ Throughout the program, I had the opportunity to work on eight fascinating proje
 
 
 8- 𝗩𝗢𝗟𝗔𝗧𝗜𝗟𝗜𝗧𝗬 𝗙𝗢𝗥𝗘𝗖𝗔𝗦𝗧𝗜𝗡𝗚 𝗜𝗡 𝗜𝗡𝗗𝗜𝗔:Learners create a GARCH time series model to predict asset volatility. They acquire stock data through an API, clean and store it in a SQLite database, and build their own API to serve model predictions.
-
-
-
-I want to express my heartfelt gratitude to WorldQuant for providing an exceptional learning experience. The program's comprehensive curriculum and hands-on projects have equipped me with practical skills and a deep understanding of data science techniques.
-
-
